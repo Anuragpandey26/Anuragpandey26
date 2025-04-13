@@ -1,5 +1,5 @@
 # Anurag_00<h1 align="center">Hi 👋, I'm ANURAG KUMAR PANDEY</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate backend developer from India</h3>
 
 - 📫 How to reach me **anuragpandey26001@gamil.com**
 

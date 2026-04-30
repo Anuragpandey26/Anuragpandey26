@@ -1,43 +1,83 @@
-# Anurag_00
-<h1 align="center">Hi 👋, I'm ANURAG KUMAR PANDEY</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Anurag Kumar Pandey</h1>
+<h3 align="center">Backend Developer | Node.js | Scalable Systems | API Design</h3>
 
-- 📫 How to reach me **anuragpandey26001@gamil.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 🚀 About Me
+- 💻 Backend Developer with hands-on experience building **scalable systems & APIs**
+- ⚙️ Worked on real-world products handling **100+ daily operations & real-time systems**
+- 🔐 Strong focus on **security, performance optimization, and system design**
+- 🌱 Currently improving **system design & backend architecture skills**
+
+---
+
+### 🏢 Experience
+
+**Backend Developer Intern @ Webden (Dec 2025 – Mar 2026)**
+- Built document workflow backend handling **100+ operations/day**
+- Implemented **PostgreSQL full-text search (25–35% faster queries)**
+- Designed **AWS S3 secure storage system**
+- Built **email notification system (Adapter Pattern)**
+- Automated cleanup using **cron jobs (20% storage optimization)**
+
+**Backend Developer Intern @ Jabsz Gaming Studios (Mar 2025 – Nov 2025)**
+- Implemented **2FA authentication (reduced risk by 50%)**
+- Built **RBAC system for multi-role access control**
+- Developed **real-time backend using Socket.io**
+- Integrated **Stripe payments**
+- Designed scalable APIs for internal dashboard
+
+---
+
+### 🛠️ Tech Stack
+
+#### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-<a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux-toolkit" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
+#### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
+
+#### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+</p>
+
+#### 🎨 Frontend (Familiar)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
+
+#### 🧰 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+</p>
+
+---
+
+### 📂 Projects
+
+🔹 **ChatApp (Full Stack)**
+- Real-time chat using **Socket.io**
+- JWT authentication & REST APIs
+- Responsive UI with modern design
+
+🔹 **ProjectMang (Backend System)**
+- Workspace-based project management system
+- RBAC + task tracking + secure auth
+- Rate limiting & scalable architecture
+
+---
+
+### 📫 Connect With Me
+- 📧 anuragpandey26001@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/anurag-kumar-pandey
+- 💻 GitHub: https://github.com/Anuragpandey26
+
+---
+
+### ⚡ Fun Fact
+I enjoy building backend systems that are **secure, scalable, and production-ready** 🚀
